@@ -8,7 +8,6 @@ download.file(fileUrl,destfile="./data/Dataset.zip")
 # Unzip dataSet
 unzip(zipfile="./data/Dataset.zip",exdir="./data")
 
-
 # Step 1. Merge the training and the test sets to create one data set:
 
   # 1.1 Reading files
